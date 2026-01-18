@@ -26,13 +26,9 @@ subjectAltName = @alt_names
 [ alt_names ]
 DNS.1 = mail.crm.com
 DNS.2 = dev.mail.crm.com
-DNS.3 = mail.dev.mail.crm.com
-DNS.4 = *.dev.mail.crm.com
-DNS.5 = *.mail.crm.com
-DNS.6 = *.crm.com
+DNS.3 = *.dev.mail.crm.com
 IP.1 = 192.168.1.124
 IP.1 = 127.0.0.1
-
 ```
 
 create request cert
